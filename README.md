@@ -5,6 +5,7 @@
 Avoir une connaissance du fonctionnement général d’Internet et des systèmes informatiques
 Savoir, dans les grandes lignes, ce qu’est une base de données et un service tiers (comme un web service par exemple). 
 Il n'est pas nécessaire d'être capable de les mettre en œuvre.
+
 ####Contexte
 Vous avez déjà rencontré ce scenario si vous avez fait le projet Analysez les besoins de votre client pour son groupe 
 de pizzerias. C'est tout à fait normal, le travail que vous allez faire maintenant est complémentaire à celui du projet
